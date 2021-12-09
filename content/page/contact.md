@@ -7,4 +7,4 @@ description = "How to contact me."
 
 ## Contact
 
-You my contact me over Twitter, LinkedIn or email.
+You may contact me over Twitter, LinkedIn or email.
