@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://allanregush@github.io"
 title = "Blog"
 theme = "ghostwriter"
 
@@ -9,6 +9,7 @@ theme = "ghostwriter"
     description = "A Programmer's Blog"
     github = "https://github.com/AllanRegush"
     twitter = "https://twitter.com/AllanRegush"
+    linkedin = "https://linkedin.com/in/allanregush"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
